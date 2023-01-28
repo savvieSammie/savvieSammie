@@ -19,7 +19,7 @@ Hello, my name is Samuel, Aderibgbe.
 :pencil2: I'm an Aspiring Software Developer. hence, I'm open to opportunities, especially those that allows me to work remotely. Currently I'm a Mechanical Technician in a food producing company, I love the work and I love coding too 🙏🏻
 
 :pencil2: I enjoy learning new technologies, I can quickly pick up a new tool, learn it and start using it. I love building 
-stuffs that helps other people. I beleive that to strive in this competitive economy, A software Developer must build products or offer dervices that are rare and valuable. Devs also needs to be compassionate when writing codes, so that anyone else maintaining it in the future won't have so much to worry about. I like this quote: "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
+stuffs that helps other people. I beleive that to strive in this competitive economy, A software Developer must build products or offer services that are rare and valuable. Devs also needs to be compassionate when writing codes, so that anyone else maintaining it in the future won't have so much to worry about. I like this quote: "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
 "
 Perhaps a little over the top, but maybe that shock to the system is what we need to get this important point across to our fellow developers.
 
