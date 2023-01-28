@@ -25,9 +25,7 @@ Perhaps a little over the top, but maybe that shock to the system is what we nee
 
 
 
-<div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
-</div>
+
 
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
