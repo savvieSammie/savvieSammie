@@ -4,7 +4,7 @@ Hello, my name is Samuel, Aderibgbe.
 
 # Hi there! Welcome to my GitHub Profile! 🤓
 
-## <img src="./assets/waving-hand.webp" width="4%"> I'm Samuel, an aspiring Software Developer with Experience in Python and JavaScript. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> I'm Samuel, A Software Developer with Experience in Python and JavaScript. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/Sam_1.jpg">
