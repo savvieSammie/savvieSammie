@@ -9,22 +9,19 @@ Hello, my name is Samuel, Aderibgbe.
 <div align="center">
     <img width="90%" src="./assets/Sam_1.jpg">
 </div>
+# Hi there! 👋 I'm [Your Name]
 
-:pencil2: I started learning tech in 2019 and I started with Python. I used Python for Data Science, doing exploratory Data Analysis, Data Visualization and Machine Learning. It was really fun while starting out because Data Science was natural for me. I love Maths, Physics and I studied Mechanical Engineering. I beleive I got my analytical skills from my love for Science and Maths.   
+🌱 I started my tech journey in 2019, and Python was my first programming language. I fell in love with Python and began using it for Data Science, particularly in areas such as exploratory Data Analysis, Data Visualization, and Machine Learning. The natural connection between Data Science and my passion for Maths and Physics made the learning process incredibly enjoyable.
 
-:pencil2: You'll find me with my PC trying to solve a problem or watching tutorials online, Yea I'm self-taught and I spend a lot of time on my own learning. I love using Cousera, Freecodecamp, DataCamp and Kaggle.  Recently, I'm working on building my network, I'm a big fan of networking. I want to connect with other techies to learn, share ideas and oppurtunities  😕
+💻 You'll often find me in front of my PC, either solving problems or watching online tutorials. I'm a self-taught learner and dedicate a lot of time to expanding my knowledge. I rely on platforms like Coursera, FreeCodeCamp, DataCamp, and Kaggle to enhance my skills. Lately, I've been focusing on building my network because I'm a big believer in the power of networking. I'm eager to connect with fellow techies to learn, share ideas, and explore new opportunities. 😕
 
-:pencil2: This year I started writing, I'm still learning Technical Writing but I've written 3 articles already this month and I plan to write more the coming months. My love for Technical writing started when I was a teaching some kids maths. I taught them for about a year and I was working hard to create lesson plans, home works, extra reading to simplified the concepts I was teaching them. I started taking this kid Alegbra and He loved the way I was representing a variable as a container and trying to relate other things with maths. I knew I wanted to take complex stuffs and then simplify it for others. So I started writing.🤓
+📝 This year, I ventured into the world of writing. Although I'm still learning the art of Technical Writing, I've already written more than 5 articles and plan to continue writing in the coming months. My passion for Technical Writing stems from my experience teaching math to children. During that time, I worked diligently to create lesson plans, homework assignments, and supplementary reading materials that simplified complex concepts. It was through this experience that I discovered my knack for breaking down complicated topics and making them accessible to others. So, I began my journey as a writer. 🤓
 
-:pencil2: I'm an Aspiring Software Developer. hence, I'm open to opportunities, especially those that allows me to work remotely. Currently I'm a Mechanical Technician in a food producing company, I love the work and I love coding too 🙏🏻
+💼 I'm a Software Developer with 3 years of experience and actively seeking opportunities, particularly remote positions. 
 
-:pencil2: I enjoy learning new technologies, I can quickly pick up a new tool, learn it and start using it. I love building 
-stuffs that helps other people. I beleive that to strive in this competitive economy, A software Developer must build products or offer services that are rare and valuable. Devs also needs to be compassionate when writing codes, so that anyone else maintaining it in the future won't have so much to worry about. I like this quote: "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
-"
-Perhaps a little over the top, but maybe that shock to the system is what we need to get this important point across to our fellow developers.
+🚀 I'm passionate about learning new technologies and quickly adapt to new tools. I find joy in building projects that help others. I firmly believe that to thrive in this competitive economy, software developers need to create products or provide services that are rare and valuable. Additionally, I value compassion in coding, ensuring that anyone maintaining my code in the future won't face unnecessary challenges. There's a quote I live by: "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." It may sound extreme, but it serves as a reminder to write clean and maintainable code. 😉
 
-
-
+Let's connect! Feel free to reach out to me for collaborations, discussions, or just to say hello. 📫
 
 
 <div>
