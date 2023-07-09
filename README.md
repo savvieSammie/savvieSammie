@@ -2,14 +2,14 @@
 Hello, my name is Samuel, Aderibgbe.
 -->
 
-# Hi there! Welcome to my GitHub Profile! 🤓
+# Hi there!👋  Welcome to my GitHub Profile! 🤓
 
 ## <img src="./assets/waving-hand.webp" width="4%"> I'm Samuel, A Software Developer with Experience in Python and JavaScript. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/Sam_1.jpg">
 </div>
-# Hi there! 👋 I'm [Your Name]
+
 
 🌱 I started my tech journey in 2019, and Python was my first programming language. I fell in love with Python and began using it for Data Science, particularly in areas such as exploratory Data Analysis, Data Visualization, and Machine Learning. The natural connection between Data Science and my passion for Maths and Physics made the learning process incredibly enjoyable.
 
